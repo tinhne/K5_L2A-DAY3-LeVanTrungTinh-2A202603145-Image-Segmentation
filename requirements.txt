@@ -2,3 +2,6 @@
 numpy
 pillow
 pycocotools
+# SegAssist (tools/segassist)
+scipy
+shapely
